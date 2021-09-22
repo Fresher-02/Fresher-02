@@ -1,14 +1,14 @@
 
-# CAFE -PROJCET
+# -PROJCETs
 
-A web developement projcect.
+Web developement projcect- [@cafe_project](https://fresher-02.github.io/CAFE02/)
 
 
-## Languages Used :-
+## Languages Learned :-
 
- - HTML
- - CSS & JS
- - PHP
+ - HTML,CSS,JS,JQuery,PHP
+ - flutter/dart(currently learning)
+ - little bit knowledge of C,Cpp,Python,Java OOP.
 
   
 
@@ -16,7 +16,15 @@ A web developement projcect.
   
 ## Appendix
 
-college project 
+college project - 
+
+      -cafe02
+
+practise projects-
+    
+     - calculator
+     - match-it
+     - tic_tac
 
   
 ## Authors
