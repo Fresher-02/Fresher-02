@@ -1,5 +1,5 @@
 <h1 align="center">Helow! 👋, I'm Sushant Joshi</h1>
-<h3 align="center">Currently a MIT WPU SYBCA student..I'm trying to be a developer!!</h3>
+<h3 align="center">Currently a SYBCA student..I'm trying to be a developer!!</h3>
 
 
 <hr>
