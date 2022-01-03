@@ -45,13 +45,13 @@
 
   <h3>GitHub Stats<h3/>
   <p align="left">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Fresher-02&show_icons=true&count_private=true&locale=en&theme=outrun" alt="Sushant-02"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=joshi-sushant02&show_icons=true&count_private=true&locale=en&theme=outrun" alt="Sushant-02"/>
   
   </p>
   
 <p align="right">
-    <img  src="http://github-readme-streak-stats.herokuapp.com?user=Fresher-02&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" alt="Sushant-02"/>
+    <img  src="http://github-readme-streak-stats.herokuapp.com?user=joshi-sushant02&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" alt="Sushant-02"/>
       </p>
    <p align="left">
-      <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Fresher-02&show_icons=true&locale=en&layout=compact&theme=outrun" alt="Sushant-02" />
+      <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=joshi-sushant02&show_icons=true&locale=en&layout=compact&theme=outrun" alt="Sushant-02" />
   </p>
