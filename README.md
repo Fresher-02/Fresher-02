@@ -1,5 +1,5 @@
-<h1 align="center">Helow! 👋, I'm Sushant Joshi</h1>
-<h3 align="center">Currently a SYBCA student..I'm trying to be a developer!!</h3>
+<h1 align="center">Helow! 👋,Sushant Joshi 's here</h1>
+<h3 align="center">Currently a TYBCA student... trying hard to be a developer🤕🤕</h3>
 
 
 <hr>
@@ -8,13 +8,18 @@
 <a href="https://www.linkedin.com/in/sushant-joshi-b104bb21b" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>  &nbsp;
 <a href="mailto:sushantjoshi7875@gmail.com" target="blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a> 
 <hr>
-
+<p align="left"> 
+  <a href="https://www.codechef.com/users/sushant0206" target="_blank"> <img src="https://avatars.githubusercontent.com/u/11960354?v=4" width="40" height="40"/></a> &nbsp; &nbsp;
+  <a href="https://leetcode.com/sushantjoshi7875/" target="_blank"> <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="45" height="45"/>  &nbsp; &nbsp;
+  <a href="https://codeforces.com/profile/sushantjoshi7875" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" width="40" height="40"/></a>
+ 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a> &nbsp;
    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  &nbsp;
-  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/></a> &nbsp;
+  <a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40"/></a>
   <br/>
   <br/>
         <img align="right" src="https://media.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif"/>
@@ -33,7 +38,8 @@
 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> &nbsp;
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" height="40"/> </a>  &nbsp;
- <a href="https://git-scm.com/https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.icons8.com/color/48/4a90e2/intellij-idea.png"/></a> 
+ <a href="https://git-scm.com/https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.icons8.com/color/48/4a90e2/intellij-idea.png"/></a>  &nbsp;
+ <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" width="40" height="40">
   <br/>
      <br/>
      <br/>
